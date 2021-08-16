@@ -4,6 +4,6 @@
 
 ## типовые команды для запуска контейнера c backend-сервером:
 
-sudo docker build -t my_docker
-sudo docker container run -d -p 8000:8000 my_docker
+#sudo docker build -t my_docker
+#sudo docker container run -d -p 8000:8000 my_docker
 
